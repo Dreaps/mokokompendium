@@ -91,9 +91,7 @@ builds:
           - name: Powerful Strike
             points: 3
             category: leap
-            tier: 2
-    arkgrid_prose: |-
-      Ark Grid does not fundamentally change Control Glaivier. As such there is no minimum core setup.  
+            tier: 2  
     variants:
       - name: 232-Chain Hit
         difficulty: 1
