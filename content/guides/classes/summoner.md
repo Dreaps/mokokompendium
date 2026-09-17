@@ -135,7 +135,7 @@ builds:
         - name: Ancient Spear
           level: 14
           tripods:
-            - Swift Cast
+            - Quick Prep
             - Explosive Spear
             - Ancient Strength
           rune: Galewind
@@ -147,8 +147,8 @@ builds:
         - name: Electric Storm
           level: 14
           tripods:
-            - Magick Control
-            - Growth Attack
+            - Swift Cast
+            - Sustain Enhancement
             - Guiding Storm
           rune: Wealth
           rune_rarity: legendary
@@ -171,7 +171,7 @@ builds:
         - name: Steed Charge
           level: 14
           tripods:
-            - Burning Sprint
+            - Stormlike Gallop
             - Weak Point Detection
             - Destruction Charger
           rune: Wealth
@@ -195,14 +195,14 @@ builds:
           level: 10
           tripods:
             - Energy Control
-            - Sand Wind
+            - Tenacity
             - Storm Stampede
           rune: Quick Recharge
           rune_rarity: legendary
           notes: |-
             **Utility Skill, Mobility, Counter**
             - The only movement skill available to Summoner.
-            - <tripod>Quick Pace</tripod> provides a decent movement speed increase.
+            - <tripod>Tenacity</tripod> grants Push Immunity. Swap to <tripod>Sand Wind</tripod> for a shorter cooldown, or replace <tripod>Energy Control</tripod> with <tripod>Quick Pace</tripod> when you need movement speed.
         - name: Mariposa
           level_label: Hyper Awakening Technique
           notes: |-
@@ -329,7 +329,7 @@ builds:
           - name: Electric Storm
             level: 14
             tripods:
-              - Magick Control
+              - Swift Cast
               - Growth Attack
               - Red Storm
             rune: Galewind
@@ -353,7 +353,7 @@ builds:
           - name: Steed Charge
             level: 14
             tripods:
-              - Burning Sprint
+              - Stormlike Gallop
               - Weak Point Detection
               - Destruction Charger
             rune: Overwhelm
@@ -364,27 +364,27 @@ builds:
           - name: Fleeting Gale Bird
             level: 14
             tripods:
-              - Nimble Movement
+              - Accumulated Energy
               - Free Flight
               - Mother Gale Bird
             rune: Judgment
             rune_rarity: legendary
             notes: |-
-              **Self-Speed buff, Meter Generation Skill**
-              - Grants a sizeable movement speed buff with <tripod>Nimble Movement</tripod>.
+              **Damage Skill, Meter Generation Skill**
+              - <tripod>Free Flight</tripod> lets the bird attack while you cast other skills.
               - You can build passive gauge from <tripod>Accumulated Energy</tripod> even without hitting any enemies.
           - name: Released Will
             level: 10
             tripods:
-              - Quick Pace
-              - Sand Wind
+              - Energy Control
+              - Tenacity
               - Storm Stampede
             rune: Quick Recharge
             rune_rarity: epic
             notes: |-
               **Utility Skill, Mobility, Counter**
               - The only movement skill available to Summoner.
-              - <tripod>Quick Pace</tripod> provides a decent movement speed increase.
+              - <tripod>Tenacity</tripod> grants Push Immunity. Swap to <tripod>Sand Wind</tripod> for a shorter cooldown, or replace <tripod>Energy Control</tripod> with <tripod>Quick Pace</tripod> when you need movement speed.
           - name: Mariposa
             level_label: Hyper Awakening Technique
             notes: |-
@@ -576,7 +576,7 @@ builds:
           - name: Ancient Spear
             level: 14
             tripods:
-              - Swift Cast
+              - Quick Prep
               - Explosive Spear
               - Ancient Strength
             rune: Galewind
@@ -588,8 +588,8 @@ builds:
           - name: Electric Storm
             level: 14
             tripods:
-              - Magick Control
-              - Growth Attack
+              - Swift Cast
+              - Sustain Enhancement
               - Guiding Storm
             rune: Wealth
             rune_rarity: legendary
@@ -612,7 +612,7 @@ builds:
           - name: Steed Charge
             level: 14
             tripods:
-              - Burning Sprint
+              - Stormlike Gallop
               - Weak Point Detection
               - Destruction Charger
             rune: Wealth
@@ -636,14 +636,14 @@ builds:
             level: 10
             tripods:
               - Energy Control
-              - Sand Wind
+              - Tenacity
               - Storm Stampede
             rune: Quick Recharge
             rune_rarity: legendary
             notes: |-
               **Utility Skill, Mobility, Counter**
               - The only movement skill available to Summoner.
-              - <tripod>Quick Pace</tripod> provides a decent movement speed increase.
+              - <tripod>Tenacity</tripod> grants Push Immunity. Swap to <tripod>Sand Wind</tripod> for a shorter cooldown, or replace <tripod>Energy Control</tripod> with <tripod>Quick Pace</tripod> when you need movement speed.
           - name: Mariposa
             level_label: Hyper Awakening Technique
             notes: |-
@@ -822,7 +822,7 @@ builds:
           - name: Ancient Spear
             level: 14
             tripods:
-              - Swift Cast
+              - Quick Prep
               - Explosive Spear
               - Ancient Strength
             rune: Galewind
@@ -834,8 +834,8 @@ builds:
           - name: Electric Storm
             level: 14
             tripods:
-              - Magick Control
-              - Growth Attack
+              - Swift Cast
+              - Sustain Enhancement
               - Guiding Storm
             rune: Wealth
             rune_rarity: legendary
@@ -858,7 +858,7 @@ builds:
           - name: Steed Charge
             level: 14
             tripods:
-              - Burning Sprint
+              - Stormlike Gallop
               - Weak Point Detection
               - Destruction Charger
             rune: Wealth
@@ -882,14 +882,14 @@ builds:
             level: 10
             tripods:
               - Energy Control
-              - Sand Wind
+              - Tenacity
               - Storm Stampede
             rune: Quick Recharge
             rune_rarity: legendary
             notes: |-
               **Utility Skill, Mobility, Counter**
               - The only movement skill available to Summoner.
-              - <tripod>Quick Pace</tripod> provides a decent movement speed increase.
+              - <tripod>Tenacity</tripod> grants Push Immunity. Swap to <tripod>Sand Wind</tripod> for a shorter cooldown, or replace <tripod>Energy Control</tripod> with <tripod>Quick Pace</tripod> when you need movement speed.
           - name: Mariposa
             level_label: Hyper Awakening Technique
             notes: |-
@@ -1564,7 +1564,7 @@ builds:
               - Elcid is entirely stationary, so you may need to resummon her if the boss moves out of range.
               - <tripod>Deadly Poison Seed</tripod> requires maintaining its stacks, so resummon Elcid promptly to keep both its damage and synergy active. <tripod>Homing Seeds</tripod> can be used instead on highly mobile bosses where maintaining stacks is unreliable.
           - name: Pauru
-            level: 11
+            level: 13
             tripods:
               - Weak Point Detection
               - Atk. Power Enhancement
@@ -1588,7 +1588,7 @@ builds:
               - Tactical Command reduces Maririn's Command Skill damage by 90% but upgrades its stagger while heavily boosting Maririn's basic attacks.
               - Only use the Command Skill for stagger checks otherwise let Maririn continue basic attacking.
           - name: Shurdi
-            level: 13
+            level: 11
             tripods:
               - Shining Growth
               - Bulky Shurdi
