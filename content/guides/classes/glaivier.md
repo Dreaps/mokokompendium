@@ -8,7 +8,7 @@ author: Dreaps
 lastUpdated: '2026-9-15'
 identity:
   name: Stance Swap & Dual Meter
-  description: Glaiver swaps between two weapons with Z which allows the use of different skills. The Glaive for Flurry(Blue) skills and the Spear for Focus(Red) skills. The Dual meter has 3 bars and gets consumed to use certain skills and provide a buff when swapping stances. The Dual meter gets filled over time and when hitting enemies with skills. As it currently exists, the Dual meter fills much faster than it can be used and doesn't need to be managed in practical gameplay. 
+  description: Glaivier swaps between two weapons with Z which allows the use of different skills. The Glaive for Flurry(Blue) skills and the Spear for Focus(Red) skills. The Dual meter has 3 bars and gets consumed to use certain skills and provide a buff when swapping stances. The Dual meter gets filled over time and when hitting enemies with skills. As it currently exists, the Dual meter fills much faster than it can be used and doesn't need to be managed in practical gameplay. 
 synergy:
   name: Crit Hit Damage Increase
   description: All party member's crit hit damage increased by 8%
@@ -18,7 +18,7 @@ synergy:
 builds:
   - name: Control
     engraving: Control
-    description: Control removes the stance swapping mechanic, focusing soley on the Glaive. Simple, high uptime, consistant damage back attacking class. High apm, low cast times, and good push immune accessibility.
+    description: Control removes the stance swapping mechanic, focusing solely on the Glaive. It is a simple, high uptime and consistent damage class relying on back attacks. It is a high APM class with low cast times and access to good push immunity on her skills.
     playstyle: Move to the back of the boss and send all skills in order of highest damage to least. Control gains access to new skill Yeon-Style Technique (X) which is both high damage and provides key buff.
     difficulty: easy
     preArkGrid:
@@ -204,7 +204,7 @@ builds:
             notes: |-
               **Damage Skill**
               -Awakening should mainly be used for extended push immunity
-              -Most of the cast time doesn't do damage so the awakening can be timed during downtime patterns in the location you know the boss will appear next
+              -This Awakening skill has a long wind-up time before damage is actually applied, so it can be prematurely cast during downtime before the boss reappears.
         gems:
           - skill: Half Moon Slash
             type: damage
@@ -366,7 +366,7 @@ builds:
             steps:
               - Yeon-Style Technique
               - Dragon's Rampage
-          - title: Thorn Jab does negligable damage. Hold it for counters or stagger, or use it if every other skill is on cooldown for cooldown reduction on your X.
+          - title: Thorn Jab does negligible damage. Hold it for counters or stagger, or use it if every other skill is on cooldown for cooldown reduction on your X.
             steps:
               - Thorn Jab
         engravings:
@@ -495,7 +495,7 @@ builds:
             notes: |-
               **Damage Skill**
               -Awakening should mainly be used for extended push immunity
-              -Most of the cast time doesn't do damage so the awakening can be timed during downtime patterns in the location you know the boss will appear next
+              -This Awakening skill has a long wind-up time before damage is actually applied, so it can be prematurely cast during downtime before the boss reappears.
         gems:
           - skill: Half Moon Slash
             type: damage
@@ -657,7 +657,7 @@ builds:
             steps:
               - Yeon-Style Technique
               - Dragon's Rampage
-          - title: Thorn Jab does negligable damage. Hold it for counters or stagger, or use it if every other skill is on cooldown for cooldown reduction on your X.
+          - title: Thorn Jab does negligible damage. Hold it for counters or stagger, or use it if every other skill is on cooldown for cooldown reduction on your X.
             steps:
               - Thorn Jab
         engravings:
