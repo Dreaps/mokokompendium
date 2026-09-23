@@ -76,7 +76,11 @@ builds:
             points: 1
             category: leap
             tier: 1
+<<<<<<< HEAD
           - name: Unleashed power
+=======
+          - name: Unleashed Power
+>>>>>>> 127f9532dd5e5e6183885217a713cfab21108b15
             points: 5
             category: leap
             tier: 1
@@ -309,7 +313,11 @@ builds:
             points: 1
             category: leap
             tier: 1
+<<<<<<< HEAD
           - name: Unleashed power
+=======
+          - name: Unleashed Power
+>>>>>>> 127f9532dd5e5e6183885217a713cfab21108b15
             points: 5
             category: leap
             tier: 1
@@ -600,7 +608,11 @@ builds:
             points: 1
             category: leap
             tier: 1
+<<<<<<< HEAD
           - name: Unleashed power
+=======
+          - name: Unleashed Power
+>>>>>>> 127f9532dd5e5e6183885217a713cfab21108b15
             points: 5
             category: leap
             tier: 1
